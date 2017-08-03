@@ -1,3 +1,4 @@
 line1
 line2
 line4, commited while on branch master
+line3 on another branch
